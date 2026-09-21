@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Srinithi!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+Artificial+Interlligence+%26+Data+Science+Student;Aspiring+AI+Engineer;Exploring+Artificial+Intelligence;Building+My+Technical+Foundations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=B.Tech+Artificial+Intelligence+%26+Data+Science+Student;Aspiring+AI+Engineer;Exploring+Artificial+Intelligence;Building+My+Technical+Foundations" alt="Typing SVG" />
 
 ### 🎓 B.Tech Artificial Intelligence & Data Science Student
 ### 🤖 Aspiring AI Engineer | 💻 Learner | 🚀 Future Builder
@@ -110,15 +110,13 @@ This project helped me practice combining multiple Python concepts into one larg
 
 ---
 
-## 📂 Other Work
+## 🏆 Certificates
 
-### 🐍 Python Learning
+### 📜 Learning & Achievements
 
-**`python-learning`**
+A collection of certificates and learning achievements from my academic and technical journey.
 
-My collection of Python practice programs and exercises while building my programming fundamentals.
-
-🔗 [View Repository](https://github.com/srinithi277/python-learning)
+🔗 **[View Certificates](https://github.com/srinithi277/certificates)**
 
 ---
 
