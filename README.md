@@ -78,7 +78,7 @@ I enjoy learning by **understanding concepts, practicing them, building projects
 A beginner-friendly **Python console application** that combines multiple student-related utilities into one menu-driven program.
 
 🔗 **Repository:**  
-[View Student Management System](https://github.com/srinithi277/student-management-system)
+[View python projects](https://github.com/srinithi277/python-projects.git)
 
 ### ✨ Features
 
