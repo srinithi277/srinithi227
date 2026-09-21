@@ -31,119 +31,45 @@
 
 Hi! I'm **Srinithi**, a B.Tech student specializing in **Artificial Intelligence & Data Science**.
 
-I'm currently building my programming foundations and exploring the world of **Artificial Intelligence, Data Science, and technology** step by step.
+I'm building my programming foundations while exploring **Artificial Intelligence, Data Science, and technology**.
 
-I enjoy learning by **understanding concepts, practicing them, building projects, and continuously improving**.
+I enjoy learning by understanding concepts, practicing them, building projects, and continuously improving.
 
-### ✨ A little about me
+### ✨ A Little About Me
 
 - 🎓 B.Tech AI & Data Science Student
 - 🤖 Aspiring AI Engineer
-- 🐍 Learning and practicing Python
-- 💻 Currently learning C programming
+- 🐍 Python Programmer
+- 💻 Exploring programming and technology
 - 🧠 Interested in Artificial Intelligence & Data Science
 - 🚀 Interested in building practical projects
-- 📚 Always curious to learn something new
 
 ---
 
-## 🛠️ Currently Learning
+## 🚀 Projects
 
-<div align="center">
+### 🐍 Python Projects
 
-<img src="https://skillicons.dev/icons?i=python,c" />
+A collection of Python projects built while learning programming and strengthening problem-solving skills.
 
-</div>
-
-<br>
-
-### 💻 Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### 🎓 Student Management System
-
-A beginner-friendly **Python console application** that combines multiple student-related utilities into one menu-driven program.
-
-🔗 **Repository:**  
-[View python projects](https://github.com/srinithi277/python-projects.git)
-
-### ✨ Features
-
-- 🔐 Basic Login System
-- 📊 Student Report Card
-- 🧠 Quiz Competition
-- 📅 Student Attendance
-- 🗳️ Election Voting Simulation
-- 🧮 Calculator
-- 🚪 Exit Option
-
-### 🛠️ Concepts Used
-
-- 🐍 Python
-- 🔀 Conditional Statements
-- 🔁 `for` and `while` loops
-- 🧩 Functions
-- 📋 Lists
-- 📦 Dictionaries
-- ⌨️ User Input
-- 📊 Basic Calculations
-- 🧠 Problem Solving
-
-### 📚 What I Practiced
-
-This project helped me practice combining multiple Python concepts into one larger console-based application instead of writing isolated programs.
-
-> Built as part of my Python learning journey.
+🔗 **[Explore Python Projects →](https://github.com/srinithi277/python-projects)**
 
 ---
 
 ## 🏆 Certificates
 
-### 📜 Learning & Achievements
+A collection of certificates and learning achievements from my academic and technical development journey.
 
-A collection of certificates and learning achievements from my academic and technical journey.
-
-🔗 **[View Certificates](https://github.com/srinithi277/certificates)**
+🔗 **[View Certificates →](https://github.com/srinithi277/certificates)**
 
 ---
 
-## 🎯 Currently Working On
+<div align="center">
 
-- 🐍 Strengthening Python fundamentals
-- 💻 Learning C programming
-- 🧠 Improving logical thinking and problem solving
-- 📚 Building strong programming foundations
-- 🚀 Creating more practical projects
-- 🤖 Exploring Artificial Intelligence and Data Science
+### 🌱 Building today for the AI future.
 
----
+💡 Learn. Build. Improve. Repeat.
 
-## 💡 What I Enjoy
+⭐ Thanks for visiting my profile!
 
-```text
-Learning new concepts
-        ↓
-Understanding the logic
-        ↓
-Writing code
-        ↓
-Testing & debugging
-        ↓
-Building projects
-        ↓
-Learning from mistakes
-        ↓
-Improving 🚀
+</div>
